@@ -1,7 +1,7 @@
 # Week 4 Status (Oct 20, 2026)
 
 ## Lab 4.1: S3 bucket with a lifecycle rule
-Commands used (region us-east-1):
+Commands used (region us-east-2, Ohio):
 ```bash
 aws s3 mb s3://my-training-bucket-swayam
 aws s3 cp week-03/runbook.md s3://my-training-bucket-swayam/
